@@ -40,5 +40,7 @@ variable "mapPublicIP" {
   default = true
 }
 
-# end of variables.tf
+# end of variables.tf it is end git jenkins job
+
+
 
